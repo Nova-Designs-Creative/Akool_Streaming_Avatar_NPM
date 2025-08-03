@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 
 // --- Constants ---
 const CONTAINER_ID = 'akool-avatar-container'
-const AKOOL_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4N2RlYTg5ZDY0MThiM2VmY2MxNzM5YiIsInVpZCI6MTUyOTEyODMsImVtYWlsIjoibm92YWRlc2lnbnNjb250YWN0QGdtYWlsLmNvbSIsImNyZWRlbnRpYWxJZCI6IjY4N2Y0NTAwOWY0MWNiYTY2ZDFmNmEyNSIsImZpcnN0TmFtZSI6Im5vdmEgZGVzaWducyIsImxhc3ROYW1lIjoiY29udGFjdCIsInRlYW1faWQiOiI2ODdkZWE4OWJiNTI1OWIxOTg2MGQ5ZWQiLCJyb2xlX2FjdGlvbnMiOlsxLDIsMyw0LDUsNiw3LDgsOV0sImlzX2RlZmF1bHRfdGVhbSI6dHJ1ZSwiY2hhbm5lbCI6MTAwMDAsImZyb20iOiJ0b08iLCJ0eXBlIjoidXNlciIsImlhdCI6MTc1MzQyMzQzNywiZXhwIjoyMDY0NDYzNDM3fQ.oswIbnfcc-kRUH0hBejEShhotOKn0Wyg58NxncmkPjk' // Replace with your actual token
+const AKOOL_TOKEN = 'YOUR TOKEN HERE' // Replace with your actual token
 const AVATAR_ID = 'dvp_Tristan_cloth2_1080P'
 const AKOOL_SDK_URL = 'https://cdn.jsdelivr.net/gh/pigmore/docs/streamingAvatar-min.js'
 const AKOOL_SDK_SCRIPT_ID = 'akool-streaming-avatar-sdk'
