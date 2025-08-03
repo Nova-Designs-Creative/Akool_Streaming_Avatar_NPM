@@ -1,8 +1,8 @@
 // Script to get Akool Bearer token from clientId and clientSecret
 // Run this with: node get-token.js
 
-const clientId = "y3LR1dOJxfZd5AWcYzR/hg==";
-const clientSecret = "9j7HMZobt1of5Sv2+OGsK8Rv3oFigNvz";
+const clientId = "YOUR CLIENT ID";
+const clientSecret = "YOUR CLIENT SECRET";
 
 async function getAkoolToken() {
   try {
